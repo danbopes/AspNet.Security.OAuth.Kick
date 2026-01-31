@@ -12,7 +12,7 @@
     <PackageProjectUrl>https://github.com/danbopes/AspNet.Security.OAuth.Kick</PackageProjectUrl>
     <RepositoryUrl>https://github.com/danbopes/AspNet.Security.OAuth.Kick</RepositoryUrl>
     <PackageReadmeFile>README.md</PackageReadmeFile>
-    <Version>1.0.0</Version>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>

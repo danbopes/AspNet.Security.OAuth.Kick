@@ -6,7 +6,7 @@
 using AspNet.Security.OAuth.Kick;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace Microsoft.AspNetCore.Authentication;
+namespace Microsoft.Extensions.DependencyInjection;
 
 /// <summary>
 /// Extension methods to add Kick authentication to <see cref="AuthenticationBuilder"/>.
