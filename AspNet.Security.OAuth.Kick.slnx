@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/AspNet.Security.OAuth.Kick/AspNet.Security.OAuth.Kick.csproj" />
+  </Folder>
+  <Folder Name="/test/">
+    <Project Path="test/AspNet.Security.OAuth.Kick.Tests/AspNet.Security.OAuth.Kick.Tests.csproj" />
+  </Folder>
+</Solution>
